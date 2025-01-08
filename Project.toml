@@ -1,0 +1,6 @@
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+SNOW = "105f6ee8-0889-46b1-9d4b-65e03cbc8f13"
+Snopt = "0e9dc826-d618-11e8-1f57-c34e87fde2c0"
+Trapz = "592b5752-818d-11e9-1e9a-2b8ca4a44cd1"
+VortexLattice = "7a09bdf8-3785-11e9-0bdd-57d0ec69af3f"
